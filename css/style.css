@@ -5,7 +5,9 @@ body {
     align-items: center;
     background: url ('../img/wow.png') bottom center no-repeat;
     background-size: cover;
-    font-size: 1em;
+    font-size: 1em 16px;
+    height: 100%;
+    margins: 0;
 }
 
 .centered {
